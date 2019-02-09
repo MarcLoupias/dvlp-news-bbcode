@@ -11,9 +11,11 @@
         }
     ],
     "keywords": [
-        "markdown",
+        "md-file-converter",
         "converter",
-        "marked"
+        "marked",
+        "markdown",
+        "bbcode"
     ],
     "license": "ISC",
     "repository": {
